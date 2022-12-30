@@ -1,9 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-
-
-
 int main(void) {
 	int size, number;
 	scanf_s("%d%d", &size, &number);
